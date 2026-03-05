@@ -5,7 +5,7 @@
 - 🤔 I love playing badmintons, reading and photography.
 - 💬 Ask me about communication engineering.
 - 📫 How to reach me: **2385568495@qq.com**.
-![views](https://komarev.com/ghpvc/?username=little-boy405&color=green)
+- ![views](https://komarev.com/ghpvc/?username=little-boy405&color=green)
 
 ## My Skills Set
 - <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
